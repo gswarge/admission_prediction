@@ -8,13 +8,13 @@ Specifically, My main goal of this project was to stack various _regression mode
 - **Data Cleaning** – imputing missing values in the data and checking for outliers.
 - **Feature Engineering** – modifying existing variables and creating new ones for analysis.
 - **Model Building** – making predictive models on the data, Models used:
- - Linear Regression
- - LightGBM
- - Ridge Regression 
- - XGBoost Regressor
- - Random Forest Regressor
- - Support Vector Regressor
- - all models above, Stacked
+  - Linear Regression
+  - LightGBM
+  - Ridge Regression 
+  - XGBoost Regressor
+  - Random Forest Regressor
+  - Support Vector Regressor
+  - all models above, Stacked
 
 ## Model Performance:
 Here is the final performance various models:
